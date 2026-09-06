@@ -1,5 +1,7 @@
 ## Tech Stack
-* **Frontend:** [e.g., React / Vue.js / Vanilla JS]
+* **Frontend:** [e.g., React]
+* **Build Tool:** Vite 7
+* * **Routing:** React Router 7
 * **Styling:** [e.g., Tailwind CSS / CSS3]
 * **State & Storage:** `LocalStorage` (used for user account and cart persistence)
 * **Deployment:** GitHub Pages
