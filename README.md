@@ -1,5 +1,5 @@
 ## Tech Stack
-* **Frontend:** [e.g., React]
+* **Frontend:** [React]
 * **Build Tool:** Vite 7
 * **Routing:** React Router 7
 * **Styling:** [e.g., Tailwind CSS / CSS3]
