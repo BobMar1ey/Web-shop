@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --color-brand: #0156ff;
+  --color-brand-dark: #0043c8;
+  --color-muted: #a2a6b0;
+  --color-line: #cacdd8;
+  --color-wash: #f5f7ff;
+  --color-stock: #78a962;
+  --color-oos: #c94d3f;
+  --color-star: #e9a426;
+  --color-zip: #ffb800;
+}
+
+@layer base {
+  body {
+    @apply m-0 min-h-full bg-white font-sans text-sm leading-normal text-black;
+  }
+  a {
+    @apply text-inherit no-underline;
+  }
+  button,
+  input,
+  select,
+  textarea {
+    @apply font-sans;
+  }
+  img {
+    @apply block max-w-full;
+  }
+}
