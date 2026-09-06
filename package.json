@@ -1,6 +1,7 @@
 {
   "name": "market-place",
   "private": true,
+  "homepage": "https://albert-braun.github.io/Web-shop",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
